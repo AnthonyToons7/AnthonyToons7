@@ -1,10 +1,10 @@
-# Hi, I’m Anthony
-- I'm a front-end dev, using
-- - HTML
-- - CSS
-- - Javascript (+JQuery)
-- - PHP
-- - SQL
+# Hi there
+I'm a front-end dev, using
+- HTML
+- CSS
+- Javascript (+JQuery)
+- PHP
+- SQL
 
 # I’m currently learning these coding languages:
 - Typescript (for VSCode extensions)
