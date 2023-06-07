@@ -8,8 +8,7 @@ I'm a front-end dev, using
 
 ### I’m currently learning these coding languages:
 - Typescript (for VSCode extensions)
-- Python
-- C
+- Python (pyautogui)
 
 ### How to reach me: 
 - Email - anthonyschuurmans7818@gmail.com
