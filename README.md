@@ -13,7 +13,8 @@ I'm a front-end dev, using
 
 ### How to reach me: 
 - Email - anthonyschuurmans7818@gmail.com
-- Twt - https://twitter.com/DevAnthonytoons
+- Twitter - https://twitter.com/DevAnthonytoons
+- Reddit - https://www.reddit.com/user/DEVAnthonyToons
 
 #### Things for show:
 - My site - https://anthonytoons.nl
