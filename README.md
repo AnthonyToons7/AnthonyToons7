@@ -11,7 +11,7 @@ I'm a front-end dev, using
 - Python (pyautogui)
 
 ### How to reach me: 
-- Email - anthonyschuurmans7818@gmail.com
+- Email - anthonytoons7818@gmail.com
 - Twitter - https://twitter.com/DevAnthonytoons
 - Reddit - https://www.reddit.com/user/DEVAnthonyToons
 
