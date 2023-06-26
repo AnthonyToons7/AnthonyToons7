@@ -1,4 +1,4 @@
-## Hi there
+## Hi there,
 I'm a front-end dev, using
 - HTML
 - CSS
@@ -6,15 +6,14 @@ I'm a front-end dev, using
 - PHP
 - SQL
 
-### I’m currently learning these coding languages:
+### I’m currently learning this coding language(s):
 - Typescript (for VSCode extensions)
-- Python (pyautogui)
-
-### How to reach me: 
-- Email - anthonytoons7818@gmail.com
-- Twitter - https://twitter.com/DevAnthonytoons
-- Reddit - https://www.reddit.com/user/DEVAnthonyToons
 
 #### Things for show:
 - My site - https://anthonytoons.nl
 - This git
+#
+### How to reach me: 
+- Email - anthonytoons7818@gmail.com
+- Twitter - https://twitter.com/DevAnthonytoons
+- Reddit - https://www.reddit.com/user/DEVAnthonyToons
