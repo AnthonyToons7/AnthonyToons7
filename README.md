@@ -6,8 +6,8 @@ I'm a front-end dev, using
 - PHP
 - SQL
 
-### I’m currently learning this coding language(s):
-- Typescript (for VSCode extensions)
+### I’m currently learning this:
+- REACT
 
 #### Things for show:
 - My site - https://anthonytoons.nl
