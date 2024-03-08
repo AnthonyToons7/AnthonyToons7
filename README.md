@@ -7,7 +7,8 @@ I'm a front-end dev, using
 - SQL
 
 ### I’m currently learning this:
-- REACT
+- ANGULAR
+- Electron
 
 #### Things for show:
 - My site - https://anthonytoons.nl
