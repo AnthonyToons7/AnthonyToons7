@@ -1,22 +1,23 @@
 ## Hi there,
-I'm a front-end dev, using
+I'm a 'front-end' dev, using
 - HTML
 - CSS
 - Javascript (+JQuery)
 - PHP
 - SQL
-
-### I’m currently learning this:
-- ANGULAR
+- Angular
 - Electron
 
+### I’m currently learning this:
+- Python
+- Laravel
+
 #### Things for show:
-- My site - https://anthonytoons.nl
 - This git
-#
+
 ### How to reach me: 
 - Email - anthonytoons7818@gmail.com
-- Twitter - https://twitter.com/DevAnthonytoons
+- Twitter - https://x.com/DevAnthonytoons
 - Reddit - https://www.reddit.com/user/DEVAnthonyToons
 
 ![Language Badge](https://img.shields.io/badge/HTML-orange)
