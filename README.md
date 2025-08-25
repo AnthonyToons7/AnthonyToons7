@@ -1,11 +1,9 @@
 ## Hi there,
 I'm a 'front-end' dev, using
-- HTML
-- CSS
-- Javascript (+JQuery)
+- The basic webdev package
 - PHP
-- SQL
 - Angular
+- Laravel
 - Electron
 
 ### I’m currently learning this:
