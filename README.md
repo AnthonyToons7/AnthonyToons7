@@ -4,10 +4,11 @@ I'm a 'front-end' dev, using
 - PHP
 - Laravel
 - Python
-- Have used Angular :)
+- Have used Angular once :)
 
 #### Projects:
 - A.B.A.C.U.S.
+- A... microwave?
 
 #### Things for show:
 - This git
