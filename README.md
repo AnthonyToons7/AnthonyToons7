@@ -8,7 +8,6 @@ I'm a 'front-end' dev, using
 
 #### Projects:
 - A.B.A.C.U.S.
-- A... microwave?
 
 #### Things for show:
 - This git
@@ -20,6 +19,5 @@ I'm a 'front-end' dev, using
 ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Language Badge](https://img.shields.io/badge/SQL-pink)
-![Language Badge](https://img.shields.io/badge/Python-green)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
