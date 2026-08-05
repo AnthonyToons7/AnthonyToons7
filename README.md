@@ -1,10 +1,8 @@
 ## Hi there,
-I'm a 'front-end' dev, using
-- The basic webdev package
-- PHP
-- Laravel
-- Python
-- Have used Angular once :)
+👨‍💻 Web Developer specializing in PHP & Laravel
+🐍 Exploring Python and always learning something new
+💡 Passionate about writing clean, maintainable code
+⚡ Open to learn new things
 
 #### Projects:
 - A.B.A.C.U.S.
