@@ -21,3 +21,4 @@ I'm a 'front-end' dev, using
 ![Language Badge](https://img.shields.io/badge/Javascript-yellow)
 ![Language Badge](https://img.shields.io/badge/PHP-purple)
 ![Language Badge](https://img.shields.io/badge/SQL-pink)
+![Language Badge](https://img.shields.io/badge/Python-green)
